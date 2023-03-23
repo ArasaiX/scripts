@@ -1,0 +1,4 @@
+customer_id,puntos_trimestrales,voucher_code,description_name,comprador_online,voucher_used
+123344,33344,9001,1,True,True
+569038,11009,9000,9,True,False
+549038,11009,990044566,9,True,False
